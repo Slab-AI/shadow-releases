@@ -16,5 +16,17 @@
                 length="4702177" 
                 type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 1.2.86</title>
+            <sparkle:releaseNotesLink>https://github.com/kena421/shadow-releases/releases/tag/v1.2.86</sparkle:releaseNotesLink>
+            <pubDate>Fri, 13 Mar 2026 22:17:02 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v1.2.86/Shadow.zip" 
+                sparkle:version="89" 
+                sparkle:shortVersionString="1.2.86" 
+                sparkle:edSignature="ODAbufaXBTvCVM6n43ZDpi0wlxq2wIJ2Xk0+bVjTLx6QQJxIiYA4oOK3e3po93MGb7vZUevHWDyZHzRw1aeoCg==" 
+                length="4711033" 
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
