@@ -5,6 +5,27 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.9</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.9</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6;">
+    <li><b>Sleeker Navigation:</b> Window controls are now built directly into the main toolbar for a more integrated and professional feel.</li>
+    <li><b>More Screen Space:</b> We've removed the bulky title bar, pushing the interface to the very top to give you more room for your work.</li>
+    <li><b>Sharp, Modern Design:</b> Updated the app with a clean, sharp-edged look for a more focused and modern aesthetic.</li>
+    <li><b>Fixed Accidental Dragging:</b> Resolved an issue where clicking the app's background would move the window, keeping your workspace stable.</li>
+    <li><b>Faster Experience:</b> Behind-the-scenes optimizations make the window and interface feel smoother and more responsive.</li>
+</ul>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 00:28:28 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.9/Shadow.zip" 
+                sparkle:version="111" 
+                sparkle:shortVersionString="2.0.9" 
+                sparkle:edSignature="7BYMXucu5FB6qUCUQm/jNGz7pyGs+zittMVgkTHtZATC5zzg4Gtnq40xKS2dCgwGbDyofvnfJ7mlyQ0ikJx9DQ==" 
+                length="5739672" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.6</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.6</h3>
