@@ -28,5 +28,17 @@
                 length="4711033" 
                 type="application/octet-stream" />
         </item>
+        <item>
+            <title>Version 1.2.91</title>
+            <sparkle:releaseNotesLink>https://github.com/kena421/shadow-releases/releases/tag/v1.2.91</sparkle:releaseNotesLink>
+            <pubDate>Fri, 13 Mar 2026 22:38:52 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v1.2.91/Shadow.zip" 
+                sparkle:version="94" 
+                sparkle:shortVersionString="1.2.91" 
+                sparkle:edSignature="9xOW+GX1Oh2LkMopJu6RITl6Ycp9RPEyvcV1o3ayEDuz7KlD4JZDHEPuqatL47ZIwGvvb/hpTw5TpLqOLrcqBQ==" 
+                length="5738413" 
+                type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
