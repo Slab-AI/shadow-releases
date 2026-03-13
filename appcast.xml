@@ -5,6 +5,18 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.95</title>
+            <sparkle:releaseNotesLink>https://github.com/kena421/shadow-releases/releases/tag/v1.2.95</sparkle:releaseNotesLink>
+            <pubDate>Fri, 13 Mar 2026 22:54:22 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v1.2.95/Shadow.zip" 
+                sparkle:version="98" 
+                sparkle:shortVersionString="1.2.95" 
+                sparkle:edSignature="DlgMcjlG0cc8Mypcgj8HATKnaqxynx6NkgEeg+jYPpbi4nhVyonrdgRxUXQUg+hSA0Hf9fKziemi954z3ovxDQ==" 
+                length="5738407" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.2.94</title>
             <sparkle:releaseNotesLink>https://github.com/kena421/shadow-releases/releases/tag/v1.2.94</sparkle:releaseNotesLink>
             <pubDate>Fri, 13 Mar 2026 22:51:27 +0530</pubDate>
