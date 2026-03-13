@@ -5,6 +5,26 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.10</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.10</h3>
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.6;">
+    <li><b>Full Video Support:</b> The integrated browser now fully supports HTML5 fullscreen, letting you enjoy YouTube and other media without limitations.</li>
+    <li><b>Smart Fullscreen Controls:</b> Native window controls now move into the command bar during fullscreen, keeping your workspace clean and productive.</li>
+    <li><b>High-Contrast UI:</b> Refined window control visibility for high contrast across all themes, including deep black backgrounds.</li>
+    <li><b>Modernized Core:</b> Optimized for macOS 13+ with behind-the-scenes improvements for a smoother, more responsive interface.</li>
+</ul>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 01:02:41 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.10/Shadow.zip" 
+                sparkle:version="112" 
+                sparkle:shortVersionString="2.0.10" 
+                sparkle:edSignature="If5vQJQ8E8LiPd+bROhyxC+FyyYsxN8rzlqqLpsDIvSvg8SrrFcP56tqtmw+6VXJ8aPTox10n1q87JPLqVK3Cw==" 
+                length="5748298" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.9</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.9</h3>
