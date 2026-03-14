@@ -5,6 +5,39 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.24</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.24</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Shortcut Customization</strong>: Implemented a new, immersive shortcut recorder (VS Code style) with support for editing any global hotkey and automatic conflict resolution ("steal" logic).</li>
+        <li><strong>Global Shortcut Management</strong>: Added individual toggles for all system-wide shortcuts, allowing granular control over system interactions.</li>
+        <li><strong>Premium Shortcuts UI</strong>: Overhauled the settings interface with a balanced layout, high-fidelity keycap aesthetics, and refined glassmorphism cards.</li>
+        <li><strong>WebView Enhancements</strong>: Premium accordion styling for &lt;details&gt;/&lt;summary&gt;, modernized tables with zebra striping, and custom task list checkboxes.</li>
+        <li><strong>Knowledge Library Navigation</strong>: Added navigation history support and internal note linking ([[Note Title]]) for better movement within the library.</li>
+        <li><strong>Diagramming Support</strong>: Full DBML rendering support and improved Graphviz/Mermaid integration in the WebView renderer.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>Hotkey Suppression</strong>: Prevented global hotkeys from triggering while recording new combinations.</li>
+        <li><strong>Snapshot Stability</strong>: Improved reliability of UI snapshot tests and view rendering callbacks.</li>
+        <li><strong>Legacy IFrame Fixes</strong>: Resolved origin and playback issues for external iframes (YouTube).</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.23.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 15:30:33 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.24/Shadow.zip" 
+                sparkle:version="125" 
+                sparkle:shortVersionString="2.0.24" 
+                sparkle:edSignature="9ROjo46eugccwJXHYwJGuzurZgATk50gs4EXJ/4bIA+9mPGeotPmdLX/ph79S5OQ3yCp/Io4e8Wb2rBncHa6AA==" 
+                length="5852156" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.23</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.23</h3>
