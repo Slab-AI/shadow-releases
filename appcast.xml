@@ -5,6 +5,36 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.26</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.26</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Bundle Resilience</strong>: Fixed a critical startup crash in environments with missing resource bundles by implementing a robust, crash-proof bundle search strategy.</li>
+        <li><strong>Markdown Note Linking</strong>: Integrated support for internal note links (`shadow-note://`) within the web-based markdown renderer.</li>
+        <li><strong>DBML Diagram Support</strong>: Added high-fidelity rendering for Database Markup Language (DBML) schemas directly inside your notes.</li>
+        <li><strong>Immersive WebView</strong>: Refined local scheme handling to support secure HTTPS origins, enabling robust YouTube iframe embeds and cross-origin asset loading.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>Stability</strong>: Enhanced snapshot testing reliability and synchronized view rendering callbacks for a smoother UI experience.</li>
+        <li><strong>WebView Performance</strong>: Optimized markdown rendering and layout performance for complex notes.</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.25.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 16:43:16 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.26/Shadow.zip" 
+                sparkle:version="127" 
+                sparkle:shortVersionString="2.0.26" 
+                sparkle:edSignature="OgxByimYTylLxV70eFI2Tq3FI2Q4ARHWND4TGKPeQFgsEqrfNCwii8VCb9w4MTLB4zwjhY+03qXQZ0cuyyuJBw==" 
+                length="5851916" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.25</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.25</h3>
