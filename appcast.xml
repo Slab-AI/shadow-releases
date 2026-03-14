@@ -5,6 +5,33 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.23</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.23</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Global Shortcut Toggles</strong>: Control each system-wide hotkey individually with new enable/disable toggles in Settings.</li>
+        <li><strong>Premium Shortcuts UI Overhaul</strong>: Redesigned the shortcuts settings with a balanced layout, high-fidelity keycap aesthetics, and smooth hover animations.</li>
+    </ul>
+    
+    <h3>Fixes & Improvements</h3>
+    <ul>
+        <li><strong>UI Refresh</strong>: Comprehensive theme adjustments across the shortcuts pane for a more premium experience.</li>
+        <li><strong>Version Update</strong>: Bumped application version to 2.0.22.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sat, 14 Mar 2026 14:37:34 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.23/Shadow.zip" 
+                sparkle:version="124" 
+                sparkle:shortVersionString="2.0.23" 
+                sparkle:edSignature="3465N2Y7tb99p5ZeY8CNCZgrCmhBPxnom101ne9pGOQhJvoMoRPCUaskiyptE2n5j7Wr2wGfdMVuHi9urx3oCA==" 
+                length="5829788" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.21</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.21</h3>
