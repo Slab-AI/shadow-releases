@@ -5,6 +5,28 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.32</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.32</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Improvements</h3>
+    <ul>
+        <li><strong>Accessory Mode Layering</strong>: The Command Bar now correctly stays above the system menu bar when in Accessory Mode, even when maximised.</li>
+        <li><strong>Development Workflow</strong>: Improved the dev script to reliably prevent multiple app instances when auto-reloading after code changes.</li>
+        <li><strong>Release Tagging</strong>: The release script now automatically creates a marker commit in git to clearly identify release boundaries in the history.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 11:00:05 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.32/Shadow.zip" 
+                sparkle:version="133" 
+                sparkle:shortVersionString="2.0.32" 
+                sparkle:edSignature="3gUa2lRIDZtmrgQOQvYXmreehq6JR7/Q/TBkbwxlE1erEXXAXlPxu/ESmJqlwY+xe4jtXlUAJTQxScxLeUcvDQ==" 
+                length="7763731" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.31</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.31</h3>
