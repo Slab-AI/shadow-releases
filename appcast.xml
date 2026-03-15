@@ -5,6 +5,27 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.34</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.34</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Shortcuts Search</strong>: You can now easily search for specific shortcuts by name directly in the settings view.</li>
+        <li><strong>Shortcuts Filtering</strong>: Added a new filter toggle to view your shortcuts based on their status (All, Enabled, or Disabled).</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 12:19:53 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.34/Shadow.zip" 
+                sparkle:version="135" 
+                sparkle:shortVersionString="2.0.34" 
+                sparkle:edSignature="OFAtAebN0Ww4uZP72H8EqZ27BVgfbdbySyktRzaQXW1tLB3rqEU4vsXu8kc2vHGdIBzrT1lB37sTFzDCDVclDA==" 
+                length="7776524" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.32</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.32</h3>
