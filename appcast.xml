@@ -5,6 +5,34 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.37</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.37</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Link Type Indicators</strong>: Links in notes now show a subtle inline marker — ↗ for external web links and ◈ for internal note links — so you can instantly tell where a link goes.</li>
+        <li><strong>Note Not Found Alert</strong>: Clicking a link to a note that doesn't exist in your library now shows a clear "Note Not Found" alert instead of doing nothing.</li>
+        <li><strong>Smarter Relative Link Rendering</strong>: Relative links in notes (e.g. <code>./topic.md</code>) now always render as clickable links, even if the target note isn't in your library yet.</li>
+    </ul>
+
+    <h3 style="margin-top: 10px;">Fixes &amp; Improvements</h3>
+    <ul>
+        <li><strong>Link Rendering Independence</strong>: Note rendering no longer depends on whether a linked note exists in your library. All links render consistently regardless of library state.</li>
+        <li><strong>Path Resolution</strong>: Improved handling of relative paths with special characters and spaces in synced folder notes.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 17:25:49 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.37/Shadow.zip" 
+                sparkle:version="138" 
+                sparkle:shortVersionString="2.0.37" 
+                sparkle:edSignature="qw7+Uy4L52A/Bi9RCMqSjA5zy4WvI5xF3XGNWdME8pRBltA6dDB5yApES7mJV36RrcFpiQK+45dnwsYTkbHVAw==" 
+                length="7563283" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.36</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.36</h3>
