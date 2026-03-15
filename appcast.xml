@@ -5,6 +5,34 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.36</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.36</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">Features</h3>
+    <ul>
+        <li><strong>Enhanced Markdown Rendering</strong>: Admonitions, accordions, and iframes now render beautifully in the knowledge base web view.</li>
+        <li><strong>Improved Diagrams</strong>: Upgraded the Mermaid diagram library to v11.6.0, complete with better AI diagram generation rules and improved syntax error visualization.</li>
+    </ul>
+
+    <h3 style="margin-top: 10px;">Fixes & Improvements</h3>
+    <ul>
+        <li><strong>AI Context Isolation</strong>: Fixed an issue where active chat skills (personas) could unintentionally influence internal background AI tasks.</li>
+        <li><strong>Debug Visibility</strong>: AI request prompts and history details are now directly visible in the debug sidebar for easier troubleshooting.</li>
+        <li><strong>Knowledge AI Editor</strong>: Refined the internal AI prompt for editing knowledge notes to produce higher-quality, more accurate markdown updates.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 15:12:45 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.0.36/Shadow.zip" 
+                sparkle:version="137" 
+                sparkle:shortVersionString="2.0.36" 
+                sparkle:edSignature="BBy2a0UIM1cneViCRdVU4z0aYSCuVod+pXAn5qCjKjDhrYj5TVFElKcIdMz6xT2wste8gdPqZycnJHopZtPVBg==" 
+                length="7556795" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.0.35</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.0.35</h3>
