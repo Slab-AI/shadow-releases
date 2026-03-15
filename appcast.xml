@@ -5,6 +5,30 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.1.2</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.2</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">What's New</h3>
+    <ul>
+        <li><strong>High-Fidelity Math Rendering</strong>: We've integrated KaTeX for gorgeous, professional-grade math formulas. Support includes Obsidian-style <code>$inline$</code> and <code>$$block$$</code> LaTeX syntax.</li>
+        <li><strong>Modern D2 Diagrams</strong>: Introducing support for D2, the modern technical diagramming tool. Perfect for cloud architecture and high-fidelity system overviews.</li>
+        <li><strong>Rich Diagram Ecosystem</strong>: Unified support for D2, PlantUML, Mermaid, DBML (Database Schemas), and Graphviz. All engines are bundled locally for maximum privacy and performance.</li>
+        <li><strong>Scientific & Architecture Focus</strong>: Our AI Editor is now renderer-aware, intelligently leveraging KaTeX for research and D2/PlantUML for professional architecture designs.</li>
+        <li><strong>Enhanced UI Stability</strong>: Implemented a new asynchronous rendering coordinator to ensure complex diagrams and math formulas are fully rendered before they are displayed.</li>
+    </ul>
+</div>
+            ]]></description>
+            <pubDate>Sun, 15 Mar 2026 22:10:17 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.1.2/Shadow.zip" 
+                sparkle:version="143" 
+                sparkle:shortVersionString="2.1.2" 
+                sparkle:edSignature="pm8GBOBvSZ26u/la8oM82oNR3Cru89I5RU/dD/f++Z2+7dpUybdODR0Gs9d9E2aezx85vpEX/3sa226zAGqgDg==" 
+                length="20730395" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.1.1</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.1</h3>
