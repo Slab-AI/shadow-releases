@@ -5,6 +5,31 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.1.5</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.5</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">What's New</h3>
+    <section id="latest">
+        <h2>Version 2.2.0 — The Navigation & Browsing Update</h2>
+        <ul>
+            <li>🧭 <strong>Primary Sidebar Navigation</strong>: A sleek new sidebar for instant access to Chat, Knowledge, Browser, and Settings, giving you more space for your content.</li>
+            <li>🌐 <strong>Multi-Tab Browsing</strong>: Open multiple web pages at once with the new browser tab bar and centralized tab management.</li>
+            <li>🪟 <strong>Smarter Window Controls</strong>: Refined window management for a smoother experience when switching between full-screen and accessory modes.</li>
+        </ul>
+    </section>
+</div>
+            ]]></description>
+            <pubDate>Mon, 16 Mar 2026 18:48:51 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.1.5/Shadow.zip" 
+                sparkle:version="146" 
+                sparkle:shortVersionString="2.1.5" 
+                sparkle:edSignature="Ep/koMQQnV3y/0Q0I83o1GkkrOnaWMOuNRq1LpyAT0Hm34/9ptBNDZpJ5YHTou5WYVLRyrBDvZtWiAXZb64cCg==" 
+                length="20851940" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.1.4</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.4</h3>
