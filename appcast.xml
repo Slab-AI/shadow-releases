@@ -5,6 +5,33 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.1.35</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.35</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">What's New</h3>
+    <section id="latest">
+        <h2>Version 2.1.24 — Seamless Cloud Synchronization</h2>
+        <ul>
+            <li>🔄 <strong>Seamless Cloud Sync</strong>: Your chat list now stays perfectly in sync with your cloud account. Any changes you make are instantly reflected across your devices.</li>
+            <li>📥 <strong>Automatic History Recovery</strong>: Chat messages are now intelligently restored from the cloud the moment you open a conversation, ensuring you never lose your conversation history.</li>
+            <li>🔡 <strong>Improved Chat Reliability</strong>: Resolved several underlying issues to ensure that every chat session opens predictably and reliably every time.</li>
+            <li>✨ <strong>Sidebar Enhancements</strong>: Added a live session counter and improved the sidebar visibility for better insight into your active conversations.</li>
+            <li>🪟 <strong>Window Behavior Polish</strong>: Refined how the app transitions between full-screen and accessory modes to provide a smoother, more intuitive experience.</li>
+        </ul>
+    </section>
+</div>
+            ]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:08:55 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.1.35/Shadow.zip" 
+                sparkle:version="176" 
+                sparkle:shortVersionString="2.1.35" 
+                sparkle:edSignature="YZP9a0rK/ETAwLOaQOq9W6Tz4xtswt1bSYAV0MNS78xVVbI9zCzvv8uxxUxqRvDihZAYCvqbTk+GSQQsGUmxBw==" 
+                length="21017677" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.1.34</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.34</h3>
