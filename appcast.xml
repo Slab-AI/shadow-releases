@@ -5,6 +5,31 @@
         <description>Updates for the Shadow application.</description>
         <language>en</language>
         <item>
+            <title>Version 2.1.59</title>
+            <description><![CDATA[
+                <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.59</h3>
+                <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px;">
+    <h3 style="margin-top: 0;">What's New</h3>
+    <section id="latest">
+        <h2>Version 2.1.58 — Knowledge Library Refinements</h2>
+        <ul>
+            <li>🧠 <strong>Better Suggestion Parsing</strong>: AI-generated suggestions are now reliably parsed and identified in the Knowledge Library.</li>
+            <li>☑️ <strong>Refined Accept Logic</strong>: The 'Accept All' merging functionality now correctly respects and preserves any manual rejections you've made in the diff view.</li>
+            <li>🧹 <strong>Cleaner Content</strong>: AI suggestions now automatically strip away unnecessary markdown code blocks for a seamless merging experience.</li>
+        </ul>
+    </section>
+</div>
+            ]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:34:08 +0530</pubDate>
+            <enclosure 
+                url="https://github.com/kena421/shadow-releases/releases/download/v2.1.59/Shadow.zip" 
+                sparkle:version="200" 
+                sparkle:shortVersionString="2.1.59" 
+                sparkle:edSignature="FYskiOXi+A/P6Fi2Siw4TjR1nkA/3sNpn2PoyyhyCyAP77bvaHOVTHCD0ee5NhfatEgcaNb2elN80f0RFxvBBA==" 
+                length="21071206" 
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 2.1.58</title>
             <description><![CDATA[
                 <h3 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">Release Notes for Version 2.1.58</h3>
